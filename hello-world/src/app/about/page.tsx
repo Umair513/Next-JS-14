@@ -1,3 +1,6 @@
+export const metadata = {
+  title: "About Umair Ahmed Soomro",
+};
 import React from "react";
 
 const page = () => {
